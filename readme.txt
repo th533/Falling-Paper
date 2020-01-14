@@ -2,7 +2,7 @@ Large Scale Automated Investigation of Free-Falling Paper Shapes via Iterative P
 Toby Howison, Josie Hughes and Fumiya Iida
 University of Cambridge
 
-This code accompanies our project on the automatic investigation of the falling paper problem (1). It contains a limited dataset and code for processing videos, extracting 3D trajectories and classifying behaviours.
+This code accompanies our project on the automatic investigation of the falling paper problem (1). It contains a dataset and code for processing videos, extracting 3D trajectories and classifying behaviours.
 
 To run the video processing use
 To classify behaviours use classifyAllData.m
